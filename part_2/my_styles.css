@@ -5,3 +5,41 @@
   /* Make the invisible visible */
   border: thin red solid;
 }
+
+.header1 {
+  height: 200px;
+  background-color: lightgrey;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  min-width: 150px;
+  height: 30px;
+  text-align: center;
+  display: table-cell;
+}
+
+.row {
+  clear: both;
+}
+
+.thirds {
+  width: 33%;
+  float: left;
+}
+
+.twothirds {
+  width: 66%;
+  float: left;
+}
+
+.quarters {
+  width: 25%;
+  float: left;
+}
+
+a:link {
+    text-decoration: none;
+}
